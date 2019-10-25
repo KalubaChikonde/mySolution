@@ -17,4 +17,4 @@ Write a function that computes the list of the first 100 Fibonacci numbers. By d
 Given an array of integers nums and an integer k, determine whether there are two distinct indices i and j in the array where nums[i] = nums[j] and the absolute difference between i and j is less than or equal to k.
 
 ## Question 6
-Given an array of n distinct elements, find the minimum number of swaps required to sort the array.Start your timer before you attempt this challenge.
+Given an array of n distinct elements, find the minimum number of swaps required to sort the array.
